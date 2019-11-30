@@ -7,18 +7,17 @@
 
 .personal-info{
     margin: 0 auto;
-    width: 30%;
+    width: 50%;
     height: 200px;
     border: 1px solid;
     box-sizing: border-box;
-    overflow: hidden;
 }
 
 .equipament{
     margin: 0 auto;
     margin-top: 10px;
     padding-top: 70px;
-    width: 30%;
+    width: 50%;
     height: 200px;
     border: 1px solid;
 }
@@ -32,7 +31,7 @@
     background-image: url('img/suéter.jpg');
     background-size: 90%;
     position: relative;
-    margin-top: -380px;
+    margin-top: -350px;
 }
 
 .level{
