@@ -67,11 +67,6 @@ body{
     text-align: center;
 }
 
-.info{
-    align-items: center;
-    position: relative;
-}
-
 span{
     font-size: 16px;
 }
@@ -99,7 +94,5 @@ h4{
 
 table{
     width: 100%;
-    margin-bottom : .5em;
-    table-layout: fixed;
     text-align: center;
 }
