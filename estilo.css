@@ -35,7 +35,7 @@ body{
     margin: 0 auto;
     width: 150px;
     height: 150px;
-    border: 1px solid;
+    border: 3px solid;
     border-radius: 50%;
     background-image: url('img/suéter.jpg');
     background-size: 90%;
@@ -59,21 +59,21 @@ body{
 .level p{
     font-size: 14px;
 }
-
-.race p{
-    text-align: left;
-}
-
-.class p{
-    text-align: right;
-}
-
 .name{
     position: relative;
 }
 
 .contact{
     text-align: center;
+}
+
+.info{
+    align-items: center;
+    position: relative;
+}
+
+span{
+    font-size: 16px;
 }
 
 p{
@@ -90,10 +90,16 @@ h3{
     letter-spacing: 0;
     line-height: 0.1;
     text-align: center;
-    text-align: center;
-    justify-content: center;
+    justify-content: left;
 }
 
 h4{
     line-height: 0.1;
+}
+
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
 }
