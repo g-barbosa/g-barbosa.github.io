@@ -16,18 +16,18 @@ body{
     margin: 0 auto;
     width: 60%;
     height: 200px;
-    border: 1px solid;
+    border: 3px solid;
     box-sizing: border-box;
     background-color: #d2b48c;
 }
 
 .equipament{
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 7px;
     padding-top: 70px;
     width: 60%;
-    height: 200px;
-    border: 1px solid;
+    height: 265px;
+    border: 3px solid;
     background-color: #d2b48c;
 }
 
@@ -40,7 +40,7 @@ body{
     background-image: url('img/suéter.jpg');
     background-size: 90%;
     position: relative;
-    margin-top: -350px;
+    margin-top: -410px;
 }
 
 .level{
