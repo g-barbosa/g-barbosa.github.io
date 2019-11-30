@@ -9,7 +9,7 @@ body{
     height: 100%;
     background-image: url('img/Dungeon.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: auto;
 }
 
 .personal-info{
