@@ -2,6 +2,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     width: 100%;
+    position: fixed;
 }
 
 .personal-info{
@@ -9,6 +10,8 @@
     width: 30%;
     height: 200px;
     border: 1px solid;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 .equipament{
@@ -22,8 +25,8 @@
 
 .photo{
     margin: 0 auto;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border: 1px solid;
     border-radius: 50%;
     background-image: url('img/suéter.jpg');
@@ -73,6 +76,10 @@
 .class{
     margin-left: 1%;
     position: absolute;
+}
+
+.name{
+    position: relative;
 }
 
 p{
