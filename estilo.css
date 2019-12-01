@@ -5,17 +5,17 @@
 
 body{
     font-family: pixelArt;
-    margin: 0 auto;
+    margin: auto;
     min-width:600px;
     max-width:2000px;
     background-image: url('img/Dungeon.jpg');
-    cursor: url('img/icons/cafe.png'), default;
     background-repeat: no-repeat;
     background-size: auto;
 }
 
 .container{
     margin: 0 auto;
+    margin-top: 100px;
 }
 
 .personal-info{
