@@ -5,9 +5,8 @@
 
 body{
     font-family: pixelArt;
-    background-image: url('img/Dungeon.jpg');
-    background-repeat: no-repeat;
-    background-size: 100%;
+    /* background-image: url('img/Dungeon.jpg'); */
+    /* background-repeat: no-repeat; */
 }
 
 .container{
