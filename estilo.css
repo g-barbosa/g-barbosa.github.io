@@ -5,7 +5,7 @@
 
 body{
     font-family: pixelArt;
-    /* background-image: url('img/Dungeon.jpg'); */
+    background-image: url('img/Dungeon.jpg'); 
     /* background-repeat: no-repeat; */
 }
 
@@ -43,7 +43,9 @@ body{
     height: 150px;
     border: 3px solid;
     border-radius: 50%;
-    background-image: url('img/suéter.jpg');
+    background-color: #ffffff;
+    background-image: url('img/bonitono2.jpg');
+    background-repeat: no-repeat;
     background-size: 90%;
     position: relative;
     margin-top: -450px;
