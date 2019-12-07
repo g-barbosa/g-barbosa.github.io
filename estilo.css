@@ -1,7 +1,7 @@
 @font-face {
     font-family:pixelArt;
     src:url('fonts/FreePixel.ttf')
-   }
+}
 
 body{
     font-family: pixelArt;
@@ -91,7 +91,7 @@ body{
         margin-top: -49px;
         margin-left: 55%;
     }
-   }
+}
    
 
 span{
