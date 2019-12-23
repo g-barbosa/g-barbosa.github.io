@@ -12,7 +12,7 @@ body{
 
 .container{
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 20px;
     position: relative;
 }
@@ -101,6 +101,14 @@ body{
 
     .personal-info{
         width: 90%;
+    }
+
+    .portifolio-info{
+        width: 90%;
+    }
+
+    .portifolio-info p{
+        font-size: 14px;
     }
 
     .equipament{
