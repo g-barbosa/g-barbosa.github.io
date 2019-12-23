@@ -27,6 +27,22 @@ body{
     background-color: #d2b48c;
 }
 
+.portifolio-info{
+    margin: 0 auto;
+    margin-top: 7px;
+    width: 40%;
+    height: 198px;
+    border: 3px solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #d2b48c;
+    text-align: center; 
+}
+
+.portifolio-info p{
+    font-size: 19px;
+}
+
 .equipament{
     margin: 0 auto;
     margin-top: 7px;
@@ -36,6 +52,7 @@ body{
     border: 3px solid;
     border-radius: 10px;
     background-color: #d2b48c;
+    text-align: center;
 }
 
 .photo{
@@ -49,7 +66,7 @@ body{
     background-repeat: no-repeat;
     background-size: 90%;
     position: relative;
-    margin-top: -450px;
+    margin-top: -500px;
 }
 
 .level{
@@ -119,6 +136,7 @@ h3{
 
 h4{
     line-height: 0.1;
+    text-align: center;
 }
 
 table{
