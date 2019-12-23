@@ -95,7 +95,7 @@ body{
 
 @media screen and (max-device-width:840px) {
     .container {
-     margin-top:10%;
+     margin-top:5px;
      width:95%;
     }
 
