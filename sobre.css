@@ -1,0 +1,128 @@
+@font-face {
+    font-family:pixelArt;
+    src:url('fonts/FreePixel.ttf')
+}
+
+body{
+    font-family: pixelArt;
+    background-image: url('img/Dungeon.jpg'); 
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.personal-info{
+    margin: 0 auto;
+    width: 40%;
+    height: 198px;
+    border: 3px solid;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #d2b48c;
+}
+
+.equipament{
+    margin: 0 auto;
+    margin-top: 7px;
+    padding-top: 70px;
+    width: 40%;
+    height: 100%;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: #d2b48c;
+    text-align: center;
+}
+
+.equipament p {
+    font-size: 18px;
+}
+
+.photo{
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border: 3px solid;
+    border-radius: 50%;
+    background-color: #ffffff;
+    background-image: url('img/bonitono2.jpg');
+    background-repeat: no-repeat;
+    background-size: 90%;
+    position: relative;
+    margin-top: -270px;
+}
+
+.level{
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: #d2b48c;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 52%;
+
+}
+
+.level p{
+    font-size: 16px;
+}
+.name{
+    position: relative;
+}
+
+@media screen and (max-device-width:840px) {
+    .container {
+     margin-top:5px;
+     width:95%;
+    }
+
+    .personal-info{
+        width: 90%;
+    }
+
+    .equipament{
+        width: 90%;
+    }
+    .level{
+        margin-top: -49px;
+        margin-left: 55%;
+    }
+
+    .photo{
+        margin-top: -360px;
+    }
+}
+   
+p{
+    text-align: center;
+    font-size: 1em;
+}
+
+h2{
+    text-align: center;
+    justify-content: center;
+}
+
+h3{
+    letter-spacing: 0;
+    line-height: 0.1;
+    text-align: center;
+    justify-content: left;
+}
+
+h4{
+    line-height: 0.1;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
