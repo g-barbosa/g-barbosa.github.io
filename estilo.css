@@ -101,6 +101,14 @@ body{
     margin-right: 50px;
 }
 
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
 @media screen and (max-device-width:840px) {
     .container {
      margin-top:5px;
