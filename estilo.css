@@ -131,11 +131,16 @@ a:visited{
         width: 90%;
     }
     .photo{
-        margin-top: -450px;
+        margin-top: -460px;
     }
     .level{
         margin-top: -49px;
         margin-left: 55%;
+    }
+
+    .sobre{
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
    
