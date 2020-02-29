@@ -66,7 +66,7 @@ body{
     background-repeat: no-repeat;
     background-size: 90%;
     position: relative;
-    margin-top: -500px;
+    margin-top: -425px;
 }
 
 .level{
@@ -93,6 +93,22 @@ body{
     text-align: center;
 }
 
+.sobre{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
 @media screen and (max-device-width:840px) {
     .container {
      margin-top:5px;
@@ -113,6 +129,9 @@ body{
 
     .equipament{
         width: 90%;
+    }
+    .photo{
+        margin-top: -450px;
     }
     .level{
         margin-top: -49px;
