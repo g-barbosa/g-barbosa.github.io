@@ -7,7 +7,7 @@ body{
     font-family: pixelArt;
     background-image: url('img/Dungeon.jpg'); 
     background-size: 100%;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 }
 
 .container{
@@ -110,6 +110,10 @@ a:visited{
 }
 
 @media screen and (max-device-width:840px) {
+
+    body{
+        background: url('img/Dungeon.jpg') repeat-x;
+    }
     .container {
      margin-top:5px;
      width:95%;
