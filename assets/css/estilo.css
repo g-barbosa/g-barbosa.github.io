@@ -1,11 +1,11 @@
 @font-face {
     font-family:pixelArt;
-    src:url('fonts/FreePixel.ttf')
+    src:url('../fonts/FreePixel.ttf')
 }
 
 body{
     font-family: pixelArt;
-    background-image: url('img/Dungeon.jpg'); 
+    background-image: url('../../img/Dungeon.jpg'); 
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -62,7 +62,7 @@ body{
     border: 3px solid;
     border-radius: 50%;
     background-color: #ffffff;
-    background-image: url('img/bonitono2.jpg');
+    background-image: url('../../img/bonitono2.jpg');
     background-repeat: no-repeat;
     background-size: 90%;
     position: relative;
@@ -112,7 +112,7 @@ a:visited{
 @media screen and (max-device-width:840px) {
 
     body{
-        background: url('img/Dungeon.jpg') repeat-x;
+        background: url('../../img/Dungeon.jpg') repeat-x;
     }
     .container {
      margin-top:5px;
